@@ -7,7 +7,6 @@ namespace pis1
 {
     class NewClass
     {
-        public void Metoda() {
-        }
+       /*COM*/
     }
 }

@@ -13,4 +13,6 @@ namespace pis1
             /*Komentar*/
         }
     }
+    class NewClass {
+    }
 }
