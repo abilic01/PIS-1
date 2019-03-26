@@ -5,7 +5,9 @@ using System.Text;
 
 namespace pis1
 {
-    class Class1
+    class NewClass
     {
+        public void Metoda() {
+        }
     }
 }
