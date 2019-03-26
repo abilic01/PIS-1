@@ -5,8 +5,8 @@ using System.Text;
 
 namespace pis1
 {
-    class NewClass
+    class Class1
     {
-       /*COM*/
-    }
+        /*COM*/
+    }/*kom*/
 }
