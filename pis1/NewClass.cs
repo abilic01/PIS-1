@@ -7,5 +7,6 @@ namespace pis1
 {
     class Class1
     {
+        /*COM*/
     }
 }
